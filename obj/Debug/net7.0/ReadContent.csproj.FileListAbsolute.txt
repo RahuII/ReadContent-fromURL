@@ -1,0 +1,15 @@
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\ReadContent\bin\Debug\net7.0\ReadContent.exe
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\ReadContent\bin\Debug\net7.0\ReadContent.deps.json
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\ReadContent\bin\Debug\net7.0\ReadContent.runtimeconfig.json
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\ReadContent\bin\Debug\net7.0\ReadContent.dll
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\ReadContent\bin\Debug\net7.0\ReadContent.pdb
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\ReadContent\obj\Debug\net7.0\ReadContent.csproj.AssemblyReference.cache
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\ReadContent\obj\Debug\net7.0\ReadContent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\ReadContent\obj\Debug\net7.0\ReadContent.AssemblyInfoInputs.cache
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\ReadContent\obj\Debug\net7.0\ReadContent.AssemblyInfo.cs
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\ReadContent\obj\Debug\net7.0\ReadContent.csproj.CoreCompileInputs.cache
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\ReadContent\obj\Debug\net7.0\ReadContent.dll
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\ReadContent\obj\Debug\net7.0\refint\ReadContent.dll
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\ReadContent\obj\Debug\net7.0\ReadContent.pdb
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\ReadContent\obj\Debug\net7.0\ReadContent.genruntimeconfig.cache
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\ReadContent\obj\Debug\net7.0\ref\ReadContent.dll
