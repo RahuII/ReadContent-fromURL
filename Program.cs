@@ -2,7 +2,7 @@ namespace ReadContent
 {
     class Program
     {
-        private static async Task Main()
+        private static void Main()
         {
             // Read URL from console
             Console.Write("Enter URL: ");
@@ -11,12 +11,15 @@ namespace ReadContent
             // Check if URL is not null and call ReadContent method with URL as parameter.
             if (url != null)
             {
-                await ReadContent(url);
+                var t = ReadContent(url);
             }
             else
             {
                 Console.WriteLine("Invalid URL");
             }
+
+            Console.WriteLine("Press any key to exit");
+            Console.ReadKey();
         }
 
         private static async Task ReadContent(string url)
@@ -32,6 +35,7 @@ namespace ReadContent
                 var result = await response.Content.ReadAsStringAsync();
                 // Write content to file A.txt
                 await File.WriteAllTextAsync("A.txt", result);
+                await Task.Delay(10000);
             }
             catch (Exception e)
             {
